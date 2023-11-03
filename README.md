@@ -3,6 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+### `npm i`
+After cleaning, first of all run this command.
 
 In the project directory, you can run:
 
